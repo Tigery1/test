@@ -1,2 +1,2 @@
 # test
-This is some text
+This is the updated text
